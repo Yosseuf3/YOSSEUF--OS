@@ -1,0 +1,184 @@
+[
+  {
+    "id": "existing-3",
+    "name": "bamora",
+    "strategy": "existing-independent",
+    "displayName": "BAMORA",
+    "syllables": 3,
+    "components": {
+      "pronounceability": 17.94,
+      "memorability": 15,
+      "visualStrength": 9.65,
+      "globalNeutrality": 10,
+      "technologyFit": 7.8,
+      "premiumPerception": 9.2,
+      "expansionPotential": 10,
+      "distinctiveness": 12.18
+    },
+    "score": 91.77,
+    "stress": {
+      "families": [
+        "BAMORA",
+        "BAMORA AI",
+        "BAMORA OS",
+        "BAMORA Cloud",
+        "BAMORA Studio",
+        "BAMORA Labs",
+        "BAMORA Platform",
+        "BAMORA One"
+      ],
+      "awkward": [],
+      "passed": true,
+      "score": 10
+    },
+    "closestBrand": "ibm",
+    "similarity": 34.17,
+    "rank": 1
+  },
+  {
+    "id": "existing-5",
+    "name": "kemora",
+    "strategy": "existing-independent",
+    "displayName": "KEMORA",
+    "syllables": 3,
+    "components": {
+      "pronounceability": 17.94,
+      "memorability": 15,
+      "visualStrength": 9.65,
+      "globalNeutrality": 10,
+      "technologyFit": 8.7,
+      "premiumPerception": 9.2,
+      "expansionPotential": 10,
+      "distinctiveness": 11.25
+    },
+    "score": 91.74,
+    "stress": {
+      "families": [
+        "KEMORA",
+        "KEMORA AI",
+        "KEMORA OS",
+        "KEMORA Cloud",
+        "KEMORA Studio",
+        "KEMORA Labs",
+        "KEMORA Platform",
+        "KEMORA One"
+      ],
+      "awkward": [],
+      "passed": true,
+      "score": 10
+    },
+    "closestBrand": "klarna",
+    "similarity": 39.17,
+    "rank": 2
+  },
+  {
+    "id": "existing-2",
+    "name": "basoul",
+    "strategy": "existing-independent",
+    "displayName": "BASOUL",
+    "syllables": 2,
+    "components": {
+      "pronounceability": 18.26,
+      "memorability": 15,
+      "visualStrength": 9.65,
+      "globalNeutrality": 10,
+      "technologyFit": 7.8,
+      "premiumPerception": 9.2,
+      "expansionPotential": 10,
+      "distinctiveness": 10.33
+    },
+    "score": 90.24,
+    "stress": {
+      "families": [
+        "BASOUL",
+        "BASOUL AI",
+        "BASOUL OS",
+        "BASOUL Cloud",
+        "BASOUL Studio",
+        "BASOUL Labs",
+        "BASOUL Platform",
+        "BASOUL One"
+      ],
+      "awkward": [],
+      "passed": true,
+      "score": 10
+    },
+    "closestBrand": "baidu",
+    "similarity": 44.17,
+    "rank": 3
+  },
+  {
+    "id": "existing-1",
+    "name": "bastoul",
+    "strategy": "existing-independent",
+    "displayName": "BASTOUL",
+    "syllables": 2,
+    "components": {
+      "pronounceability": 18.89,
+      "memorability": 13,
+      "visualStrength": 9.65,
+      "globalNeutrality": 10,
+      "technologyFit": 7.8,
+      "premiumPerception": 9.2,
+      "expansionPotential": 10,
+      "distinctiveness": 9.46
+    },
+    "score": 88,
+    "stress": {
+      "families": [
+        "BASTOUL",
+        "BASTOUL AI",
+        "BASTOUL OS",
+        "BASTOUL Cloud",
+        "BASTOUL Studio",
+        "BASTOUL Labs",
+        "BASTOUL Platform",
+        "BASTOUL One"
+      ],
+      "awkward": [],
+      "passed": true,
+      "score": 10
+    },
+    "closestBrand": "mistral",
+    "similarity": 48.86,
+    "rank": 4
+  },
+  {
+    "id": "existing-4",
+    "name": "raenix",
+    "strategy": "existing-independent",
+    "displayName": "RAENIX",
+    "syllables": 2,
+    "components": {
+      "pronounceability": 18.26,
+      "memorability": 15,
+      "visualStrength": 9.65,
+      "globalNeutrality": 8.2,
+      "technologyFit": 8.7,
+      "premiumPerception": 9.2,
+      "expansionPotential": 7.5,
+      "distinctiveness": 11.25
+    },
+    "score": 87.76,
+    "stress": {
+      "families": [
+        "RAENIX",
+        "RAENIX AI",
+        "RAENIX OS",
+        "RAENIX Cloud",
+        "RAENIX Studio",
+        "RAENIX Labs",
+        "RAENIX Platform",
+        "RAENIX One"
+      ],
+      "awkward": [
+        "sibilant ending weakens OS/Studio pairing"
+      ],
+      "passed": false,
+      "score": 7.5
+    },
+    "closestBrand": "xai",
+    "similarity": 39.17,
+    "rank": 5
+  }
+]

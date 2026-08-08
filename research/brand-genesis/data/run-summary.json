@@ -1,0 +1,52 @@
+{
+  "seed": 20260808,
+  "generated": 120000,
+  "survivors": 43769,
+  "stressTestSurvivors": 41409,
+  "top10": [
+    "NIZOZE",
+    "VAZIZI",
+    "ZIDIVI",
+    "VIZAVI",
+    "VOZESI",
+    "VOZIVI",
+    "RIMIZI",
+    "BIVEZI",
+    "VAFAZA",
+    "VOFIZI"
+  ],
+  "final5": [
+    "NIZOZE",
+    "VAZIZI",
+    "ZIDIVI",
+    "VIZAVI",
+    "VOZESI"
+  ],
+  "existing": [
+    {
+      "rank": 1,
+      "name": "BAMORA",
+      "score": 91.77
+    },
+    {
+      "rank": 2,
+      "name": "KEMORA",
+      "score": 91.74
+    },
+    {
+      "rank": 3,
+      "name": "BASOUL",
+      "score": 90.24
+    },
+    {
+      "rank": 4,
+      "name": "BASTOUL",
+      "score": 88
+    },
+    {
+      "rank": 5,
+      "name": "RAENIX",
+      "score": 87.76
+    }
+  ]
+}

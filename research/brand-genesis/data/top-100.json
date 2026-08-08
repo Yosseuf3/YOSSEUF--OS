@@ -1,0 +1,683 @@
+[
+  {
+    "id": 32439,
+    "name": "nizoze",
+    "strategy": "syllable-recombination",
+    "displayName": "NIZOZE",
+    "syllables": 3,
+    "components": {
+      "pronounceability": 17.94,
+      "memorability": 15,
+      "visualStrength": 9.65,
+      "globalNeutrality": 10,
+      "technologyFit": 8.7,
+      "premiumPerception": 9.2,
+      "expansionPotential": 10,
+      "distinctiveness": 14.34
+    },
+    "score": 94.83,
+    "stress": {
+      "families": [
+        "NIZOZE",
+        "NIZOZE AI",
+        "NIZOZE OS",
+        "NIZOZE Cloud",
+        "NIZOZE Studio",
+        "NIZOZE Labs",
+        "NIZOZE Platform",
+        "NIZOZE One"
+      ],
+      "awkward": [],
+      "passed": true,
+      "score": 10
+    },
+    "closestBrand": "amazon",
+    "similarity": 22.5,
+    "rank": 1
+  },
+  {
+    "id": 7032,
+    "name": "vazizi",
+    "strategy": "syllable-recombination",
+    "displayName": "VAZIZI",
+    "syllables": 3,
+    "components": {
+      "pronounceability": 17.94,
+      "memorability": 15,
+      "visualStrength": 9.65,
+      "globalNeutrality": 10,
+      "technologyFit": 8.7,
+      "premiumPerception": 9.2,
+      "expansionPotential": 10,
+      "distinctiveness": 14.34
+    },
+    "score": 94.83,
+    "stress": {
+      "families": [
+        "VAZIZI",
+        "VAZIZI AI",
+        "VAZIZI OS",
+        "VAZIZI Cloud",
+        "VAZIZI Studio",
+        "VAZIZI Labs",
+        "VAZIZI Platform",
+        "VAZIZI One"
+      ],
+      "awkward": [],
+      "passed": true,
+      "score": 10
+    },
+    "closestBrand": "amazon",
+    "similarity": 22.5,
+    "rank": 2
+  },
+  {
+    "id": 90866,
+    "name": "zidivi",
+    "strategy": "syllable-recombination",
+    "displayName": "ZIDIVI",
+    "syllables": 3,
+    "components": {
+      "pronounceability": 17.94,
+      "memorability": 15,
+      "visualStrength": 9.65,
+      "globalNeutrality": 10,
+      "technologyFit": 8.7,
+      "premiumPerception": 9.2,
+      "expansionPotential": 10,
+      "distinctiveness": 14.34
+    },
+    "score": 94.83,
+    "stress": {
+      "families": [
+        "ZIDIVI",
+        "ZIDIVI AI",
+        "ZIDIVI OS",
+        "ZIDIVI Cloud",
+        "ZIDIVI Studio",
+        "ZIDIVI Labs",
+        "ZIDIVI Platform",
+        "ZIDIVI One"
+      ],
+      "awkward": [],
+      "passed": true,
+      "score": 10
+    },
+    "closestBrand": "adobe",
+    "similarity": 22.5,
+    "rank": 3
+  },
+  {
+    "id": 9207,
+    "name": "vizavi",
+    "strategy": "syllable-recombination",
+    "displayName": "VIZAVI",
+    "syllables": 3,
+    "components": {
+      "pronounceability": 17.94,
+      "memorability": 15,
+      "visualStrength": 9.65,
+      "globalNeutrality": 10,
+      "technologyFit": 8.7,
+      "premiumPerception": 9.2,
+      "expansionPotential": 10,
+      "distinctiveness": 14.21
+    },
+    "score": 94.7,
+    "stress": {
+      "families": [
+        "VIZAVI",
+        "VIZAVI AI",
+        "VIZAVI OS",
+        "VIZAVI Cloud",
+        "VIZAVI Studio",
+        "VIZAVI Labs",
+        "VIZAVI Platform",
+        "VIZAVI One"
+      ],
+      "awkward": [],
+      "passed": true,
+      "score": 10
+    },
+    "closestBrand": "coreweave",
+    "similarity": 23.19,
+    "rank": 4
+  },
+  {
+    "id": 9046,
+    "name": "vozesi",
+    "strategy": "syllable-recombination",
+    "displayName": "VOZESI",
+    "syllables": 3,
+    "components": {
+      "pronounceability": 17.94,
+      "memorability": 15,
+      "visualStrength": 9.65,
+      "globalNeutrality": 10,
+      "technologyFit": 8.7,
+      "premiumPerception": 9.2,
+      "expansionPotential": 10,
+      "distinctiveness": 14.21
+    },
+    "score": 94.7,
+    "stress": {
+      "families": [
+        "VOZESI",
+        "VOZESI AI",
+        "VOZESI OS",
+        "VOZESI Cloud",
+        "VOZESI Studio",
+        "VOZESI Labs",
+        "VOZESI Platform",
+        "VOZESI One"
+      ],
+      "awkward": [],
+      "passed": true,
+      "score": 10
+    },
+    "closestBrand": "atlassian",
+    "similarity": 23.19,
+    "rank": 5
+  },
+  {
+    "id": 30936,
+    "name": "vozivi",
+    "strategy": "syllable-recombination",
+    "displayName": "VOZIVI",
+    "syllables": 3,
+    "components": {
+      "pronounceability": 17.94,
+      "memorability": 15,
+      "visualStrength": 9.65,
+      "globalNeutrality": 10,
+      "technologyFit": 8.7,
+      "premiumPerception": 9.2,
+      "expansionPotential": 10,
+      "distinctiveness": 14.21
+    },
+    "score": 94.7,
+    "stress": {
+      "families": [
+        "VOZIVI",
+        "VOZIVI AI",
+        "VOZIVI OS",
+        "VOZIVI Cloud",
+        "VOZIVI Studio",
+        "VOZIVI Labs",
+        "VOZIVI Platform",
+        "VOZIVI One"
+      ],
+      "awkward": [],
+      "passed": true,
+      "score": 10
+    },
+    "closestBrand": "coreweave",
+    "similarity": 23.19,
+    "rank": 6
+  },
+  {
+    "id": 57215,
+    "name": "rimizi",
+    "strategy": "syllable-recombination",
+    "displayName": "RIMIZI",
+    "syllables": 3,
+    "components": {
+      "pronounceability": 17.94,
+      "memorability": 15,
+      "visualStrength": 9.65,
+      "globalNeutrality": 10,
+      "technologyFit": 8.7,
+      "premiumPerception": 9.2,
+      "expansionPotential": 10,
+      "distinctiveness": 14.2
+    },
+    "score": 94.69,
+    "stress": {
+      "families": [
+        "RIMIZI",
+        "RIMIZI AI",
+        "RIMIZI OS",
+        "RIMIZI Cloud",
+        "RIMIZI Studio",
+        "RIMIZI Labs",
+        "RIMIZI Platform",
+        "RIMIZI One"
+      ],
+      "awkward": [],
+      "passed": true,
+      "score": 10
+    },
+    "closestBrand": "deepmind",
+    "similarity": 23.25,
+    "rank": 7
+  },
+  {
+    "id": 111011,
+    "name": "bivezi",
+    "strategy": "syllable-recombination",
+    "displayName": "BIVEZI",
+    "syllables": 3,
+    "components": {
+      "pronounceability": 17.94,
+      "memorability": 15,
+      "visualStrength": 9.65,
+      "globalNeutrality": 10,
+      "technologyFit": 8.4,
+      "premiumPerception": 9.2,
+      "expansionPotential": 10,
+      "distinctiveness": 14.34
+    },
+    "score": 94.53,
+    "stress": {
+      "families": [
+        "BIVEZI",
+        "BIVEZI AI",
+        "BIVEZI OS",
+        "BIVEZI Cloud",
+        "BIVEZI Studio",
+        "BIVEZI Labs",
+        "BIVEZI Platform",
+        "BIVEZI One"
+      ],
+      "awkward": [],
+      "passed": true,
+      "score": 10
+    },
+    "closestBrand": "baidu",
+    "similarity": 22.5,
+    "rank": 8
+  },
+  {
+    "id": 29957,
+    "name": "vafaza",
+    "strategy": "syllable-recombination",
+    "displayName": "VAFAZA",
+    "syllables": 3,
+    "components": {
+      "pronounceability": 17.49,
+      "memorability": 15,
+      "visualStrength": 9.65,
+      "globalNeutrality": 10,
+      "technologyFit": 8.7,
+      "premiumPerception": 9.2,
+      "expansionPotential": 10,
+      "distinctiveness": 14.49
+    },
+    "score": 94.53,
+    "stress": {
+      "families": [
+        "VAFAZA",
+        "VAFAZA AI",
+        "VAFAZA OS",
+        "VAFAZA Cloud",
+        "VAFAZA Studio",
+        "VAFAZA Labs",
+        "VAFAZA Platform",
+        "VAFAZA One"
+      ],
+      "awkward": [],
+      "passed": true,
+      "score": 10
+    },
+    "closestBrand": "amazon",
+    "similarity": 21.67,
+    "rank": 9
+  },
+  {
+    "id": 87383,
+    "name": "vofizi",
+    "strategy": "syllable-recombination",
+    "displayName": "VOFIZI",
+    "syllables": 3,
+    "components": {
+      "pronounceability": 17.49,
+      "memorability": 15,
+      "visualStrength": 9.65,
+      "globalNeutrality": 10,
+      "technologyFit": 8.7,
+      "premiumPerception": 9.2,
+      "expansionPotential": 10,
+      "distinctiveness": 14.49
+    },
+    "score": 94.53,
+    "stress": {
+      "families": [
+        "VOFIZI",
+        "VOFIZI AI",
+        "VOFIZI OS",
+        "VOFIZI Cloud",
+        "VOFIZI Studio",
+        "VOFIZI Labs",
+        "VOFIZI Platform",
+        "VOFIZI One"
+      ],
+      "awkward": [],
+      "passed": true,
+      "score": 10
+    },
+    "closestBrand": "notion",
+    "similarity": 21.67,
+    "rank": 10
+  },
+  {
+    "id": 94456,
+    "name": "vofizo",
+    "strategy": "syllable-recombination",
+    "displayName": "VOFIZO",
+    "syllables": 3,
+    "components": {
+      "pronounceability": 17.49,
+      "memorability": 15,
+      "visualStrength": 9.65,
+      "globalNeutrality": 10,
+      "technologyFit": 8.7,
+      "premiumPerception": 9.2,
+      "expansionPotential": 10,
+      "distinctiveness": 14.49
+    },
+    "score": 94.53,
+    "stress": {
+      "families": [
+        "VOFIZO",
+        "VOFIZO AI",
+        "VOFIZO OS",
+        "VOFIZO Cloud",
+        "VOFIZO Studio",
+        "VOFIZO Labs",
+        "VOFIZO Platform",
+        "VOFIZO One"
+      ],
+      "awkward": [],
+      "passed": true,
+      "score": 10
+    },
+    "closestBrand": "notion",
+    "similarity": 21.67,
+    "rank": 11
+  },
+  {
+    "id": 74970,
+    "name": "rozazi",
+    "strategy": "syllable-recombination",
+    "displayName": "ROZAZI",
+    "syllables": 3,
+    "components": {
+      "pronounceability": 17.94,
+      "memorability": 15,
+      "visualStrength": 9.65,
+      "globalNeutrality": 10,
+      "technologyFit": 8.7,
+      "premiumPerception": 9.2,
+      "expansionPotential": 10,
+      "distinctiveness": 13.99
+    },
+    "score": 94.48,
+    "stress": {
+      "families": [
+        "ROZAZI",
+        "ROZAZI AI",
+        "ROZAZI OS",
+        "ROZAZI Cloud",
+        "ROZAZI Studio",
+        "ROZAZI Labs",
+        "ROZAZI Platform",
+        "ROZAZI One"
+      ],
+      "awkward": [],
+      "passed": true,
+      "score": 10
+    },
+    "closestBrand": "dropbox",
+    "similarity": 24.4,
+    "rank": 12
+  },
+  {
+    "id": 37874,
+    "name": "rivoga",
+    "strategy": "syllable-recombination",
+    "displayName": "RIVOGA",
+    "syllables": 3,
+    "components": {
+      "pronounceability": 17.94,
+      "memorability": 15,
+      "visualStrength": 9.65,
+      "globalNeutrality": 10,
+      "technologyFit": 8.7,
+      "premiumPerception": 9.2,
+      "expansionPotential": 10,
+      "distinctiveness": 13.94
+    },
+    "score": 94.43,
+    "stress": {
+      "families": [
+        "RIVOGA",
+        "RIVOGA AI",
+        "RIVOGA OS",
+        "RIVOGA Cloud",
+        "RIVOGA Studio",
+        "RIVOGA Labs",
+        "RIVOGA Platform",
+        "RIVOGA One"
+      ],
+      "awkward": [],
+      "passed": true,
+      "score": 10
+    },
+    "closestBrand": "servicenow",
+    "similarity": 24.67,
+    "rank": 13
+  },
+  {
+    "id": 32194,
+    "name": "rizike",
+    "strategy": "syllable-recombination",
+    "displayName": "RIZIKE",
+    "syllables": 3,
+    "components": {
+      "pronounceability": 17.94,
+      "memorability": 15,
+      "visualStrength": 9.65,
+      "globalNeutrality": 10,
+      "technologyFit": 8.7,
+      "premiumPerception": 9.2,
+      "expansionPotential": 10,
+      "distinctiveness": 13.94
+    },
+    "score": 94.43,
+    "stress": {
+      "families": [
+        "RIZIKE",
+        "RIZIKE AI",
+        "RIZIKE OS",
+        "RIZIKE Cloud",
+        "RIZIKE Studio",
+        "RIZIKE Labs",
+        "RIZIKE Platform",
+        "RIZIKE One"
+      ],
+      "awkward": [],
+      "passed": true,
+      "score": 10
+    },
+    "closestBrand": "servicenow",
+    "similarity": 24.67,
+    "rank": 14
+  },
+  {
+    "id": 72372,
+    "name": "ziveki",
+    "strategy": "syllable-recombination",
+    "displayName": "ZIVEKI",
+    "syllables": 3,
+    "components": {
+      "pronounceability": 17.94,
+      "memorability": 15,
+      "visualStrength": 9.65,
+      "globalNeutrality": 10,
+      "technologyFit": 8.7,
+      "premiumPerception": 9.2,
+      "expansionPotential": 10,
+      "distinctiveness": 13.94
+    },
+    "score": 94.43,
+    "stress": {
+      "families": [
+        "ZIVEKI",
+        "ZIVEKI AI",
+        "ZIVEKI OS",
+        "ZIVEKI Cloud",
+        "ZIVEKI Studio",
+        "ZIVEKI Labs",
+        "ZIVEKI Platform",
+        "ZIVEKI One"
+      ],
+      "awkward": [],
+      "passed": true,
+      "score": 10
+    },
+    "closestBrand": "servicenow",
+    "similarity": 24.67,
+    "rank": 15
+  },
+  {
+    "id": 7959,
+    "name": "riziha",
+    "strategy": "syllable-recombination",
+    "displayName": "RIZIHA",
+    "syllables": 3,
+    "components": {
+      "pronounceability": 17.49,
+      "memorability": 15,
+      "visualStrength": 9.65,
+      "globalNeutrality": 10,
+      "technologyFit": 8.7,
+      "premiumPerception": 9.2,
+      "expansionPotential": 10,
+      "distinctiveness": 14.34
+    },
+    "score": 94.38,
+    "stress": {
+      "families": [
+        "RIZIHA",
+        "RIZIHA AI",
+        "RIZIHA OS",
+        "RIZIHA Cloud",
+        "RIZIHA Studio",
+        "RIZIHA Labs",
+        "RIZIHA Platform",
+        "RIZIHA One"
+      ],
+      "awkward": [],
+      "passed": true,
+      "score": 10
+    },
+    "closestBrand": "reddit",
+    "similarity": 22.5,
+    "rank": 16
+  },
+  {
+    "id": 34429,
+    "name": "vaveha",
+    "strategy": "syllable-recombination",
+    "displayName": "VAVEHA",
+    "syllables": 3,
+    "components": {
+      "pronounceability": 17.49,
+      "memorability": 15,
+      "visualStrength": 9.65,
+      "globalNeutrality": 10,
+      "technologyFit": 8.7,
+      "premiumPerception": 9.2,
+      "expansionPotential": 10,
+      "distinctiveness": 14.34
+    },
+    "score": 94.38,
+    "stress": {
+      "families": [
+        "VAVEHA",
+        "VAVEHA AI",
+        "VAVEHA OS",
+        "VAVEHA Cloud",
+        "VAVEHA Studio",
+        "VAVEHA Labs",
+        "VAVEHA Platform",
+        "VAVEHA One"
+      ],
+      "awkward": [],
+      "passed": true,
+      "score": 10
+    },
+    "closestBrand": "cohere",
+    "similarity": 22.5,
+    "rank": 17
+  },
+  {
+    "id": 43419,
+    "name": "vaveja",
+    "strategy": "syllable-recombination",
+    "displayName": "VAVEJA",
+    "syllables": 3,
+    "components": {
+      "pronounceability": 17.49,
+      "memorability": 15,
+      "visualStrength": 9.65,
+      "globalNeutrality": 10,
+      "technologyFit": 8.7,
+      "premiumPerception": 9.2,
+      "expansionPotential": 10,
+      "distinctiveness": 14.34
+    },
+    "score": 94.38,
+    "stress": {
+      "families": [
+        "VAVEJA",
+        "VAVEJA AI",
+        "VAVEJA OS",
+        "VAVEJA Cloud",
+        "VAVEJA Studio",
+        "VAVEJA Labs",
+        "VAVEJA Platform",
+        "VAVEJA One"
+      ],
+      "awkward": [],
+      "passed": true,
+      "score": 10
+    },
+    "closestBrand": "nvidia",
+    "similarity": 22.5,
+    "rank": 18
+  },
+  {
+    "id": 66934,
+    "name": "vavofi",
+    "strategy": "syllable-recombination",
+    "displayName": "VAVOFI",
+    "syllables": 3,
+    "components": {
+      "pronounceability": 17.49,
+      "memorability": 15,
+      "visualStrength": 9.65,
+      "globalNeutrality": 10,
+      "technologyFit": 8.7,
+      "premiumPerception": 9.2,
+      "expansionPotential": 10,
+      "distinctiveness": 14.34
+    },
+    "score": 94.38,
+    "stress": {
+      "families": [
+        "VAVOFI",
+        "VAVOFI AI",
+        "VAVOFI OS",
+        "VAVOFI Cloud",
+        "VAVOFI Studio",
+        "VAVOFI Labs",
+        "VAVOFI Platform",
+        "VAVOFI One"
+      ],
+      "awkward": [],
+      "passed": true,
+      "score": 10
+    },
+    "closestBrand": "nvidia",
+    "similarity"×­ıÒÚ$z{-®éÜj×¶R"À¢'7G&FVw’#¢'7–ÆÆ&ÆR×&V6öÖ&–æF–öâ"À¢&F—7Æ”æÖR#¢%d•¤´R"À¢'7–ÆÆ&ÆW2#¢2À¢&6ö×öæVçG2#¢°¢'&öæ÷Væ6V&–Æ—G’#¢rã“BÀ¢&ÖVÖ÷&&–Æ—G’#¢RÀ¢'f—7VÅ7G&VæwF‚#¢’ãcRÀ¢&vÆö&ÄæWWG&Æ—G’#¢À¢'FV6†æöÆöw”f—B#¢‚ãrÀ¢'&VÖ—VÕW&6WF–öâ#¢’ã"À¢&W‡ç6–öå÷FVçF–Â#¢À¢&F—7F–æ7F—fVæW72#¢2ã#`¢ÒÀ¢'66÷&R#¢“2ãsRÀ¢'7G&W72#¢°¢&fÖ–Æ–W2#¢°¢%d•¤´R"À¢%d•¤´R’"À¢%d•¤´Rõ2"À¢%d•¤´R6Æ÷VB"À¢%d•¤´R7GVF–ò"À¢%d•¤´RÆ'2"À¢%d•¤´RÆFf÷&Ò"À¢%d•¤´RöæR ¢ÒÀ¢&v·v&B#¢µÒÀ¢'76VB#¢G'VRÀ¢'66÷&R#¢ ¢ÒÀ¢&6Æ÷6W7D'&æB#¢'fW&6VÂ"À¢'6–Ö–Æ&—G’#¢#‚ã32À¢'&æ²#¢ƒ ¢ÒÀ¢°¢&–B#¢SCCbÀ¢&æÖR#¢'f—¦V¶"À¢'7G&FVw’#¢'7–ÆÆ&ÆR×&V6öÖ&–æF–öâ"À¢&F—7Æ”æÖR#¢%d•¤T´"À¢'7–ÆÆ&ÆW2#¢2À¢&6ö×öæVçG2#¢°¢'&öæ÷Væ6V&–Æ—G’#¢rã“BÀ¢&ÖVÖ÷&&–Æ—G’#¢RÀ¢'f—7VÅ7G&VæwF‚#¢’ãcRÀ¢&vÆö&ÄæWWG&Æ—G’#¢À¢'FV6†æöÆöw”f—B#¢‚ãrÀ¢'&VÖ—VÕW&6WF–öâ#¢’ã"À¢&W‡ç6–öå÷FVçF–Â#¢À¢&F—7F–æ7F—fVæW72#¢2ã#`¢ÒÀ¢'66÷&R#¢“2ãsRÀ¢'7G&W72#¢°¢&fÖ–Æ–W2#¢°¢%d•¤T´"À¢%d•¤T´’"À¢%d•¤T´õ2"À¢%d•¤T´6Æ÷VB"À¢%d•¤T´7GVF–ò"À¢%d•¤T´Æ'2"À¢%d•¤T´ÆFf÷&Ò"À¢%d•¤T´öæR ¢ÒÀ¢&v·v&B#¢µÒÀ¢'76VB#¢G'VRÀ¢'66÷&R#¢ ¢ÒÀ¢&6Æ÷6W7D'&æB#¢'fW&6VÂ"À¢'6–Ö–Æ&—G’#¢#‚ã32À¢'&æ²#¢ƒ0¢ÒÀ¢°¢&–B#¢C#3"À¢&æÖR#¢'fö'V¶ò"À¢'7G&FVw’#¢'7–ÆÆ&ÆR×&V6öÖ&–æF–öâ"À¢&F—7Æ”æÖR#¢%dô%T´ò"À¢'7–ÆÆ&ÆW2#¢2À¢&6ö×öæVçG2#¢°¢'&öæ÷Væ6V&–Æ—G’#¢rã“BÀ¢&ÖVÖ÷&&–Æ—G’#¢RÀ¢'f—7VÅ7G&VæwF‚#¢’ãcRÀ¢&vÆö&ÄæWWG&Æ—G’#¢À¢'FV6†æöÆöw”f—B#¢‚ãrÀ¢'&VÖ—VÕW&6WF–öâ#¢’ã"À¢&W‡ç6–öå÷FVçF–Â#¢À¢&F—7F–æ7F—fVæW72#¢2ã#`¢ÒÀ¢'66÷&R#¢“2ãsRÀ¢'7G&W72#¢°¢&fÖ–Æ–W2#¢°¢%dô%T´ò"À¢%dô%T´ò’"À¢%dô%T´òõ2"À¢%dô%T´ò6Æ÷VB"À¢%dô%T´ò7GVF–ò"À¢%dô%T´òÆ'2"À¢%dô%T´òÆFf÷&Ò"À¢%dô%T´òöæR ¢ÒÀ¢&v·v&B#¢µÒÀ¢'76VB#¢G'VRÀ¢'66÷&R#¢ ¢ÒÀ¢&6Æ÷6W7D'&æB#¢'fW&6VÂ"À¢'6–Ö–Æ&—G’#¢#‚ã32À¢'&æ²#¢ƒ@¢ÒÀ¢°¢&–B#¢ƒc“3bÀ¢&æÖR#¢'fö¶F"À¢'7G&FVw’#¢'7–ÆÆ&ÆR×&V6öÖ&–æF–öâ"À¢&F—7Æ”æÖR#¢%dô´D"À¢'7–ÆÆ&ÆW2#¢2À¢&6ö×öæVçG2#¢°¢'&öæ÷Væ6V&–Æ—G’#¢rã“BÀ¢&ÖVÖ÷&&–Æ—G’#¢RÀ¢'f—7VÅ7G&VæwF‚#¢’ãcRÀ¢&vÆö&ÄæWWG&Æ—G’#¢À¢'FV6†æöÆöw”f—B#¢‚ãrÀ¢'&VÖ—VÕW&6WF–öâ#¢’ã"À¢&W‡ç6–öå÷FVçF–Â#¢À¢&F—7F–æ7F—fVæW72#¢2ã#`¢ÒÀ¢'66÷&R#¢“2ãsRÀ¢'7G&W72#¢°¢&fÖ–Æ–W2#¢°¢%dô´D"À¢%dô´D’"À¢%dô´Dõ2"À¢%dô´D6Æ÷VB"À¢%dô´D7GVF–ò"À¢%dô´DÆ'2"À¢%dô´DÆFf÷&Ò"À¢%dô´DöæR ¢ÒÀ¢&v·v&B#¢µÒÀ¢'76VB#¢G'VRÀ¢'66÷&R#¢ ¢ÒÀ¢&6Æ÷6W7D'&æB#¢'fW&6VÂ"À¢'6–Ö–Æ&—G’#¢#‚ã32À¢'&æ²#¢ƒP¢ÒÀ¢°¢&–B#¢##3rÀ¢&æÖR#¢'fö¶V6"À¢'7G&FVw’#¢'7–ÆÆ&ÆR×&V6öÖ&–æF–öâ"À¢&F—7Æ”æÖR#¢%dô´T4"À¢'7–ÆÆ&ÆW2#¢2À¢&6ö×öæVçG2#¢°¢'&öæ÷Væ6V&–Æ—G’#¢rã“BÀ¢&ÖVÖ÷&&–Æ—G’#¢RÀ¢'f—7VÅ7G&VæwF‚#¢’ãcRÀ¢&vÆö&ÄæWWG&Æ—G’#¢À¢'FV6†æöÆöw”f—B#¢‚ãrÀ¢'&VÖ—VÕW&6WF–öâ#¢’ã"À¢&W‡ç6–öå÷FVçF–Â#¢À¢&F—7F–æ7F—fVæW72#¢2ã#`¢ÒÀ¢'66÷&R#¢“2ãsRÀ¢'7G&W72#¢°¢&fÖ–Æ–W2#¢°¢%dô´T4"À¢%dô´T4’"À¢%dô´T4õ2"À¢%dô´T46Æ÷VB"À¢%dô´T47GVF–ò"À¢%dô´T4Æ'2"À¢%dô´T4ÆFf÷&Ò"À¢%dô´T4öæR ¢ÒÀ¢&v·v&B#¢µÒÀ¢'76VB#¢G'VRÀ¢'66÷&R#¢ ¢ÒÀ¢&6Æ÷6W7D'&æB#¢'fW&6VÂ"À¢'6–Ö–Æ&—G’#¢#‚ã32À¢'&æ²#¢ƒ`¢ÒÀ¢°¢&–B#¢ccRÀ¢&æÖR#¢'fö¶W"À¢'7G&FVw’#¢'7–ÆÆ&ÆR×&V6öÖ&–æF–öâ"À¢&F—7Æ”æÖR#¢%dô´U"À¢'7–ÆÆ&ÆW2#¢2À¢&6ö×öæVçG2#¢°¢'&öæ÷Væ6V&–Æ—G’#¢rã“BÀ¢&ÖVÖ÷&&–Æ—G’#¢RÀ¢'f—7VÅ7G&VæwF‚#¢’ãcRÀ¢&vÆö&ÄæWWG&Æ—G’#¢À¢'FV6†æöÆöw”f—B#¢‚ãrÀ¢'&VÖ—VÕW&6WF–öâ#¢’ã"À¢&W‡ç6–öå÷FVçF–Â#¢À¢&F—7F–æ7F—fVæW72#¢2ã#`¢ÒÀ¢'66÷&R#¢“2ãsRÀ¢'7G&W72#¢°¢&fÖ–Æ–W2#¢°¢%dô´U"À¢%dô´U’"À¢%dô´Uõ2"À¢%dô´U6Æ÷VB"À¢%dô´U7GVF–ò"À¢%dô´UÆ'2"À¢%dô´UÆFf÷&Ò"À¢%dô´UöæR ¢ÒÀ¢&v·v&B#¢µÒÀ¢'76VB#¢G'VRÀ¢'66÷&R#¢ ¢ÒÀ¢&6Æ÷6W7D'&æB#¢'fW&6VÂ"À¢'6–Ö–Æ&—G’#¢#‚ã32À¢'&æ²#¢ƒp¢ÒÀ¢°¢&–B#¢“ƒSS"À¢&æÖR#¢'fö¶—¦"À¢'7G&FVw’#¢'7–ÆÆ&ÆR×&V6öÖ&–æF–öâ"À¢&F—7Æ”æÖR#¢%dô´•¤"À¢'7–ÆÆ&ÆW2#¢2À¢&6ö×öæVçG2#¢°¢'&öæ÷Væ6V&–Æ—G’#¢rã“BÀ¢&ÖVÖ÷&&–Æ—G’#¢RÀ¢'f—7VÅ7G&VæwF‚#¢’ãcRÀ¢&vÆö&ÄæWWG&Æ—G’#¢À¢'FV6†æöÆöw”f—B#¢‚ãrÀ¢'&VÖ—VÕW&6WF–öâ#¢’ã"À¢&W‡ç6–öå÷FVçF–Â#¢À¢&F—7F–æ7F—fVæW72#¢2ã#`¢ÒÀ¢'66÷&R#¢“2ãsRÀ¢'7G&W72#¢°¢&fÖ–Æ–W2#¢°¢%dô´•¤"À¢%dô´•¤’"À¢%dô´•¤õ2"À¢%dô´•¤6Æ÷VB"À¢%dô´•¤7GVF–ò"À¢%dô´•¤Æ'2"À¢%dô´•¤ÆFf÷&Ò"À¢%dô´•¤öæR ¢ÒÀ¢&v·v&B#¢µÒÀ¢'76VB#¢G'VRÀ¢'66÷&R#¢ ¢ÒÀ¢&6Æ÷6W7D'&æB#¢'fW&6VÂ"À¢'6–Ö–Æ&—G’#¢#‚ã32À¢'&æ²#¢ƒ€¢ÒÀ¢°¢&–B#¢“s32À¢&æÖR#¢'fö¶÷FR"À¢'7G&FVw’#¢'7–ÆÆ&ÆR×&V6öÖ&–æF–öâ"À¢&F—7Æ”æÖR#¢%dô´õDR"À¢'7–ÆÆ&ÆW2#¢2À¢&6ö×öæVçG2#¢°¢'&öæ÷Væ6V&–Æ—G’#¢rã“BÀ¢&ÖVÖ÷&&–Æ—G’#¢RÀ¢'f—7VÅ7G&VæwF‚#¢’ãcRÀ¢&vÆö&ÄæWWG&Æ—G’#¢À¢'FV6†æöÆöw”f—B#¢‚ãrÀ¢'&VÖ—VÕW&6WF–öâ#¢’ã"À¢&W‡ç6–öå÷FVçF–Â#¢À¢&F—7F–æ7F—fVæW72#¢2ã#`¢ÒÀ¢'66÷&R#¢“2ãsRÀ¢'7G&W72#¢°¢&fÖ–Æ–W2#¢°¢%dô´õDR"À¢%dô´õDR’"À¢%dô´õDRõ2"À¢%dô´õDR6Æ÷VB"À¢%dô´õDR7GVF–ò"À¢%dô´õDRÆ'2"À¢%dô´õDRÆFf÷&Ò"À¢%dô´õDRöæR ¢ÒÀ¢&v·v&B#¢µÒÀ¢'76VB#¢G'VRÀ¢'66÷&R#¢ ¢ÒÀ¢&6Æ÷6W7D'&æB#¢'F–·Fö²"À¢'6–Ö–Æ&—G’#¢#‚ã32À¢'&æ²#¢ƒ¢ÒÀ¢°¢&–B#¢ƒCƒÀ¢&æÖR#¢'f÷6W6’"À¢'7G&FVw’#¢'7–ÆÆ&ÆR×&V6öÖ&–æF–öâ"À¢&F—7Æ”æÖR#¢%dõ4U4’"À¢'7–ÆÆ&ÆW2#¢2À¢&6ö×öæVçG2#¢°¢'&öæ÷Væ6V&–Æ—G’#¢rã“BÀ¢&ÖVÖ÷&&–Æ—G’#¢RÀ¢'f—7VÅ7G&VæwF‚#¢’ãcRÀ¢&vÆö&ÄæWWG&Æ—G’#¢À¢'FV6†æöÆöw”f—B#¢‚ãrÀ¢'&VÖ—VÕW&6WF–öâ#¢’ã"À¢&W‡ç6–öå÷FVçF–Â#¢À¢&F—7F–æ7F—fVæW72#¢2ã#`¢ÒÀ¢'66÷&R#¢“2ãsRÀ¢'7G&W72#¢°¢&fÖ–Æ–W2#¢°¢%dõ4U4’"À¢%dõ4U4’’"À¢%dõ4U4’õ2"À¢%dõ4U4’6Æ÷VB"À¢%dõ4U4’7GVF–ò"À¢%dõ4U4’Æ'2"À¢%dõ4U4’ÆFf÷&Ò"À¢%dõ4U4’öæR ¢ÒÀ¢&v·v&B#¢µÒÀ¢'76VB#¢G'VRÀ¢'66÷&R#¢ ¢ÒÀ¢&6Æ÷6W7D'&æB#¢'†’"À¢'6–Ö–Æ&—G’#¢#‚ã32À¢'&æ²#¢“ ¢ÒÀ¢°¢&–B#¢SS“3BÀ¢&æÖR#¢'f÷f÷F’"À¢'7G&FVw’#¢'7–ÆÆ&ÆR×&V6öÖ&–æF–öâ"À¢&F—7Æ”æÖR#¢%dõdõD’"À¢'7–ÆÆ&ÆW2#¢2À¢&6ö×öæVçG2#¢°¢'&öæ÷Væ6V&–Æ—G’#¢rã“BÀ¢&ÖVÖ÷&&–Æ—G’#¢RÀ¢'f—7VÅ7G&VæwF‚#¢’ãcRÀ¢&vÆö&ÄæWWG&Æ—G’#¢À¢'FV6†æöÆöw”f—B#¢‚ãrÀ¢'&VÖ—VÕW&6WF–öâ#¢’ã"À¢&W‡ç6–öå÷FVçF–Â#¢À¢&F—7F–æ7F—fVæW72#¢2ã#`¢ÒÀ¢'66÷&R#¢“2ãsRÀ¢'7G&W72#¢°¢&fÖ–Æ–W2#¢°¢%dõdõD’"À¢%dõdõD’’"À¢%dõdõD’õ2"À¢%dõdõD’6Æ÷VB"À¢%dõdõD’7GVF–ò"À¢%dõdõD’Æ'2"À¢%dõdõD’ÆFf÷&Ò"À¢%dõdõD’öæR ¢ÒÀ¢&v·v&B#¢µÒÀ¢'76VB#¢G'VRÀ¢'66÷&R#¢ ¢ÒÀ¢&6Æ÷6W7D'&æB#¢&ÖWF"À¢'6–Ö–Æ&—G’#¢#‚ã32À¢'&æ²#¢“¢ÒÀ¢°¢&–B#¢S#bÀ¢&æÖR#¢'f÷¦–6"À¢'7G&FVw’#¢'7–ÆÆ&ÆR×&V6öÖ&–æF–öâ"À¢&F—7Æ”æÖR#¢%dõ¤”4"À¢'7–ÆÆ&ÆW2#¢2À¢&6ö×öæVçG2#¢°¢'&öæ÷Væ6V&–Æ—G’#¢rã“BÀ¢&ÖVÖ÷&&–Æ—G’#¢RÀ¢'f—7VÅ7G&VæwF‚#¢’ãcRÀ¢&vÆö&ÄæWWG&Æ—G’#¢À¢'FV6†æöÆöw”f—B#¢‚ãrÀ¢'&VÖ—VÕW&6WF–öâ#¢’ã"À¢&W‡ç6–öå÷FVçF–Â#¢À¢&F—7F–æ7F—fVæW72#¢2ã#`¢ÒÀ¢'66÷&R#¢“2ãsRÀ¢'7G&W72#¢°¢&fÖ–Æ–W2#¢°¢%dõ¤”4"À¢%dõ¤”4’"À¢%dõ¤”4õ2"À¢%dõ¤”46Æ÷VB"À¢%dõ¤”47GVF–ò"À¢%dõ¤”4Æ'2"À¢%dõ¤”4ÆFf÷&Ò"À¢%dõ¤”4öæR ¢ÒÀ¢&v·v&B#¢µÒÀ¢'76VB#¢G'VRÀ¢'66÷&R#¢ ¢ÒÀ¢&6Æ÷6W7D'&æB#¢'fW&6VÂ"À¢'6–Ö–Æ&—G’#¢#‚ã32À¢'&æ²#¢“ ¢ÒÀ¢°¢&–B#¢33ƒ#RÀ¢&æÖR#¢'¦—¦f’"À¢'7G&FVw’#¢'7–ÆÆ&ÆR×&V6öÖ&–æF–öâ"À¢&F—7Æ”æÖR#¢%¤•¤d’"À¢'7–ÆÆ&ÆW2#¢2À¢&6ö×öæVçG2#¢°¢'&öæ÷Væ6V&–Æ—G’#¢rã“BÀ¢&ÖVÖ÷&&–Æ—G’#¢RÀ¢'f—7VÅ7G&VæwF‚#¢’ãcRÀ¢&vÆö&ÄæWWG&Æ—G’#¢À¢'FV6†æöÆöw”f—B#¢‚ãrÀ¢'&VÖ—VÕW&6WF–öâ#¢’ã"À¢&W‡ç6–öå÷FVçF–Â#¢À¢&F—7F–æ7F—fVæW72#¢2ã#`¢ÒÀ¢'66÷&R#¢“2ãsRÀ¢'7G&W72#¢°¢&fÖ–Æ–W2#¢°¢%¤•¤d’"À¢%¤•¤d’’"À¢%¤•¤d’õ2"À¢%¤•¤d’6Æ÷VB"À¢%¤•¤d’7GVF–ò"À¢%¤•¤d’Æ'2"À¢%¤•¤d’ÆFf÷&Ò"À¢%¤•¤d’öæR ¢ÒÀ¢&v·v&B#¢µÒÀ¢'76VB#¢G'VRÀ¢'66÷&R#¢ ¢ÒÀ¢&6Æ÷6W7D'&æB#¢'¦ööÒ"À¢'6–Ö–Æ&—G’#¢#‚ã32À¢'&æ²#¢“0¢ÒÀ¢°¢&–B#¢Cƒ“ƒ‚À¢&æÖR#¢'¦—¦Wf’"À¢'7G&FVw’#¢'7–ÆÆ&ÆR×&V6öÖ&–æF–öâ"À¢&F—7Æ”æÖR#¢%¤•¤Ud’"À¢'7–ÆÆ&ÆW2#¢2À¢&6ö×öæVçG2#¢°¢'&öæ÷Væ6V&–Æ—G’#¢rã“BÀ¢&ÖVÖ÷&&–Æ—G’#¢RÀ¢'f—7VÅ7G&VæwF‚#¢’ãcRÀ¢&vÆö&ÄæWWG&Æ—G’#¢À¢'FV6†æöÆöw”f—B#¢‚ãrÀ¢'&VÖ—VÕW&6WF–öâ#¢’ã"À¢&W‡ç6–öå÷FVçF–Â#¢À¢&F—7F–æ7F—fVæW72#¢2ã#`¢ÒÀ¢'66÷&R#¢“2ãsRÀ¢'7G&W72#¢°¢&fÖ–Æ–W2#¢°¢%¤•¤Ud’"À¢%¤•¤Ud’’"À¢%¤•¤Ud’õ2"À¢%¤•¤Ud’6Æ÷VB"À¢%¤•¤Ud’7GVF–ò"À¢%¤•¤Ud’Æ'2"À¢%¤•¤Ud’ÆFf÷&Ò"À¢%¤•¤Ud’öæR ¢ÒÀ¢&v·v&B#¢µÒÀ¢'76VB#¢G'VRÀ¢'66÷&R#¢ ¢ÒÀ¢&6Æ÷6W7D'&æB#¢'¦ööÒ"À¢'6–Ö–Æ&—G’#¢#‚ã32À¢'&æ²#¢“@¢ÒÀ¢°¢&–B#¢s#3À¢&æÖR#¢'¦—¦—fR"À¢'7G&FVw’#¢'7–ÆÆ&ÆR×&V6öÖ&–æF–öâ"À¢&F—7Æ”æÖR#¢%¤•¤•dR"À¢'7–ÆÆ&ÆW2#¢2À¢&6ö×öæVçG2#¢°¢'&öæ÷Væ6V&–Æ—G’#¢rã“BÀ¢&ÖVÖ÷&&–Æ—G’#¢RÀ¢'f—7VÅ7G&VæwF‚#¢’ãcRÀ¢&vÆö&ÄæWWG&Æ—G’#¢À¢'FV6†æöÆöw”f—B#¢‚ãrÀ¢'&VÖ—VÕW&6WF–öâ#¢’ã"À¢&W‡ç6–öå÷FVçF–Â#¢À¢&F—7F–æ7F—fVæW72#¢2ã#`¢ÒÀ¢'66÷&R#¢“2ãsRÀ¢'7G&W72#¢°¢&fÖ–Æ–W2#¢°¢%¤•¤•dR"À¢%¤•¤•dR’"À¢%¤•¤•dRõ2"À¢%¤•¤•dR6Æ÷VB"À¢%¤•¤•dR7GVF–ò"À¢%¤•¤•dRÆ'2"À¢%¤•¤•dRÆFf÷&Ò"À¢%¤•¤•dRöæR ¢ÒÀ¢&v·v&B#¢µÒÀ¢'76VB#¢G'VRÀ¢'66÷&R#¢ ¢ÒÀ¢&6Æ÷6W7D'&æB#¢'¦ööÒ"À¢'6–Ö–Æ&—G’#¢#‚ã32À¢'&æ²#¢“P¢ÒÀ¢°¢&–B#¢SCs2À¢&æÖR#¢'f–ff’"À¢'7G&FVw’#¢'7–ÆÆ&ÆR×&V6öÖ&–æF–öâ"À¢&F—7Æ”æÖR#¢%d”dd’"À¢'7–ÆÆ&ÆW2#¢2À¢&6ö×öæVçG2#¢°¢'&öæ÷Væ6V&–Æ—G’#¢rãBÀ¢&ÖVÖ÷&&–Æ—G’#¢RÀ¢'f—7VÅ7G&VæwF‚#¢’ãcRÀ¢&vÆö&ÄæWWG&Æ—G’#¢À¢'FV6†æöÆöw”f—B#¢‚ãrÀ¢'&VÖ—VÕW&6WF–öâ#¢’ã"À¢&W‡ç6–öå÷FVçF–Â#¢À¢&F—7F–æ7F—fVæW72#¢Bã@¢ÒÀ¢'66÷&R#¢“2ãs2À¢'7G&W72#¢°¢&fÖ–Æ–W2#¢°¢%d”dd’"À¢%d”dd’’"À¢%d”dd’õ2"À¢%d”dd’6Æ÷VB"À¢%d”dd’7GVF–ò"À¢%d”dd’Æ'2"À¢%d”dd’ÆFf÷&Ò"À¢%d”dd’öæR ¢ÒÀ¢&v·v&B#¢µÒÀ¢'76VB#¢G'VRÀ¢'66÷&R#¢ ¢ÒÀ¢&6Æ÷6W7D'&æB#¢&‡Vvv–ævf6R"À¢'6–Ö–Æ&—G’#¢#2ãSbÀ¢'&æ²#¢“`¢ÒÀ¢°¢&–B#¢3SRÀ¢&æÖR#¢'fö&÷F’"À¢'7G&FVw’#¢'7–ÆÆ&ÆR×&V6öÖ&–æF–öâ"À¢&F—7Æ”æÖR#¢%dô$õD’"À¢'7–ÆÆ&ÆW2#¢2À¢&6ö×öæVçG2#¢°¢'&öæ÷Væ6V&–Æ—G’#¢rã“BÀ¢&ÖVÖ÷&&–Æ—G’#¢RÀ¢'f—7VÅ7G&VæwF‚#¢’ãcRÀ¢&vÆö&ÄæWWG&Æ—G’#¢À¢'FV6†æöÆöw”f—B#¢‚ãrÀ¢'&VÖ—VÕW&6WF–öâ#¢’ã"À¢&W‡ç6–öå÷FVçF–Â#¢À¢&F—7F–æ7F—fVæW72#¢2ã#@¢ÒÀ¢'66÷&R#¢“2ãs2À¢'7G&W72#¢°¢&fÖ–Æ–W2#¢°¢%dô$õD’"À¢%dô$õD’’"À¢%dô$õD’õ2"À¢%dô$õD’6Æ÷VB"À¢%dô$õD’7GVF–ò"À¢%dô$õD’Æ'2"À¢%dô$õD’ÆFf÷&Ò"À¢%dô$õD’öæR ¢ÒÀ¢&v·v&B#¢µÒÀ¢'76VB#¢G'VRÀ¢'66÷&R#¢ ¢ÒÀ¢&6Æ÷6W7D'&æB#¢'7F&–Æ—G’"À¢'6–Ö–Æ&—G’#¢#‚ãCBÀ¢'&æ²#¢“p¢ÒÀ¢°¢&–B#¢ƒ“c"À¢&æÖR#¢'&—¦Vf’"À¢'7G&FVw’#¢'7–ÆÆ&ÆR×&V6öÖ&–æF–öâ"À¢&F—7Æ”æÖR#¢%$•¤Td’"À¢'7–ÆÆ&ÆW2#¢2À¢&6ö×öæVçG2#¢°¢'&öæ÷Væ6V&–Æ—G’#¢rãC’À¢&ÖVÖ÷&&–Æ—G’#¢RÀ¢'f—7VÅ7G&VæwF‚#¢’ãcRÀ¢&vÆö&ÄæWWG&Æ—G’#¢À¢'FV6†æöÆöw”f—B#¢‚ãrÀ¢'&VÖ—VÕW&6WF–öâ#¢’ã"À¢&W‡ç6–öå÷FVçF–Â#¢À¢&F—7F–æ7F—fVæW72#¢2ãcp¢ÒÀ¢'66÷&R#¢“2ãsÀ¢'7G&W72#¢°¢&fÖ–Æ–W2#¢°¢%$•¤Td’"À¢%$•¤Td’’"À¢%$•¤Td’õ2"À¢%$•¤Td’6Æ÷VB"À¢%$•¤Td’7GVF–ò"À¢%$•¤Td’Æ'2"À¢%$•¤Td’ÆFf÷&Ò"À¢%$•¤Td’öæR ¢ÒÀ¢&v·v&B#¢µÒÀ¢'76VB#¢G'VRÀ¢'66÷&R#¢ ¢ÒÀ¢&6Æ÷6W7D'&æB#¢&Ö–7&÷6ögB"À¢'6–Ö–Æ&—G’#¢#bãÀ¢'&æ²#¢“€¢ÒÀ¢°¢&–B#¢Cƒ3BÀ¢&æÖR#¢'¦&f’"À¢'7G&FVw’#¢'7–ÆÆ&ÆR×&V6öÖ&–æF–öâ"À¢&F—7Æ”æÖR#¢%¤$d’"À¢'7–ÆÆ&ÆW2#¢2À¢&6ö×öæVçG2#¢°¢'&öæ÷Væ6V&–Æ—G’#¢rãC’À¢&ÖVÖ÷&&–Æ—G’#¢RÀ¢'f—7VÅ7G&VæwF‚#¢’ãcRÀ¢&vÆö&ÄæWWG&Æ—G’#¢À¢'FV6†æöÆöw”f—B#¢‚ãrÀ¢'&VÖ—VÕW&6WF–öâ#¢’ã"À¢&W‡ç6–öå÷FVçF–Â#¢À¢&F—7F–æ7F—fVæW72#¢2ãcp¢ÒÀ¢'66÷&R#¢“2ãsÀ¢'7G&W72#¢°¢&fÖ–Æ–W2#¢°¢%¤$d’"À¢%¤$d’’"À¢%¤$d’õ2"À¢%¤$d’6Æ÷VB"À¢%¤$d’7GVF–ò"À¢%¤$d’Æ'2"À¢%¤$d’ÆFf÷&Ò"À¢%¤$d’öæR ¢ÒÀ¢&v·v&B#¢µÒÀ¢'76VB#¢G'VRÀ¢'66÷&R#¢ ¢ÒÀ¢&6Æ÷6W7D'&æB#¢&Ö–7&÷6ögB"À¢'6–Ö–Æ&—G’#¢#bãÀ¢'&æ²#¢“¢ÒÀ¢°¢&–B#¢SsCrÀ¢&æÖR#¢&F—¦f’"À¢'7G&FVw’#¢'7–ÆÆ&ÆR×&V6öÖ&–æF–öâ"À¢&F—7Æ”æÖR#¢$D•¤d’"À¢'7–ÆÆ&ÆW2#¢2À¢&6ö×öæVçG2#¢°¢'&öæ÷Væ6V&–Æ—G’#¢rã“BÀ¢&ÖVÖ÷&&–Æ—G’#¢RÀ¢'f—7VÅ7G&VæwF‚#¢’ãcRÀ¢&vÆö&ÄæWWG&Æ—G’#¢À¢'FV6†æöÆöw”f—B#¢‚ãBÀ¢'&VÖ—VÕW&6WF–öâ#¢’ã"À¢&W‡ç6–öå÷FVçF–Â#¢À¢&F—7F–æ7F—fVæW72#¢2ãCP¢ÒÀ¢'66÷&R#¢“2ãcBÀ¢'7G&W72#¢°¢&fÖ–Æ–W2#¢°¢$D•¤d’"À¢$D•¤d’’"À¢$D•¤d’õ2"À¢$D•¤d’6Æ÷VB"À¢$D•¤d’7GVF–ò"À¢$D•¤d’Æ'2"À¢$D•¤d’ÆFf÷&Ò"À¢$D•¤d’öæR ¢ÒÀ¢&v·v&B#¢µÒÀ¢'76VB#¢G'VRÀ¢'66÷&R#¢ ¢ÒÀ¢&6Æ÷6W7D'&æB#¢&FFFör"À¢'6–Ö–Æ&—G’#¢#rã3"À¢'&æ²#¢ ¢Ğ¥Ğ 

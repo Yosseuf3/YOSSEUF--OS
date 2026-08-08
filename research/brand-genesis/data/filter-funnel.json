@@ -1,0 +1,68 @@
+[
+  {
+    "filter": "generated",
+    "before": 120000,
+    "removed": 0,
+    "surviving": 120000
+  },
+  {
+    "filter": "explicit-exclusion",
+    "before": 120000,
+    "removed": 0,
+    "surviving": 120000
+  },
+  {
+    "filter": "dictionary-common",
+    "before": 120000,
+    "removed": 12,
+    "surviving": 119988
+  },
+  {
+    "filter": "personal-name",
+    "before": 119988,
+    "removed": 13,
+    "surviving": 119975
+  },
+  {
+    "filter": "geographic",
+    "before": 119975,
+    "removed": 3,
+    "surviving": 119972
+  },
+  {
+    "filter": "offensive-negative",
+    "before": 119972,
+    "removed": 223,
+    "surviving": 119749
+  },
+  {
+    "filter": "difficult-cluster",
+    "before": 119749,
+    "removed": 0,
+    "surviving": 119749
+  },
+  {
+    "filter": "ambiguous-pronunciation",
+    "before": 119749,
+    "removed": 71948,
+    "surviving": 47801
+  },
+  {
+    "filter": "visually-confusing",
+    "before": 47801,
+    "removed": 3935,
+    "surviving": 43866
+  },
+  {
+    "filter": "rejected-shortlist-similarity",
+    "before": 43866,
+    "removed": 14,
+    "surviving": 43852
+  },
+  {
+    "filter": "major-tech-similarity",
+    "before": 43852,
+    "removed": 83,
+    "surviving": 43769
+  }
+]
