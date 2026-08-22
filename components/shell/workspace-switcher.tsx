@@ -1,5 +1,5 @@
 "use client";
-import { Building2, Check, ChevronDown, Languages, LockKeyhole, ShieldCheck } from "lucide-react";
+import { Building2, Check, ChevronDown, Languages, LockKeyhole, Settings2, ShieldCheck } from "lucide-react";
 import { useEffect, useState } from "react";
 import { WORKSPACES } from "@/packages/core/src";
 import type { WorkspaceId } from "@/packages/types/src";
@@ -18,6 +18,7 @@ const workspaceEnglish: Record<WorkspaceId, { label: string; shortLabel: string;
 export function WorkspaceSwitcher({ value, onChange }: { value: WorkspaceId; onChange: (value: WorkspaceId) => void }) {
   const [open, setOpen] = useState(false);
   const [canAdminister, setCanAdminister] = useState(false);
+  const [isOwner, setIsOwner] = useState(false);
   const { locale, toggleLocale, text } = useLanguage();
   const active = WORKSPACES.find((workspace) => workspace.id === value) ?? WORKSPACES[0];
   const activeEnglish = workspaceEnglish[active.id];
@@ -29,16 +30,19 @@ export function WorkspaceSwitcher({ value, onChange }: { value: WorkspaceId; onC
       try {
         const { data } = await supabase.auth.getSession();
         if (!data.session) {
-          if (activeRequest) setCanAdminister(false);
+          if (activeRequest) { setCanAdminister(false); setIsOwner(false); }
           return;
         }
         const administration = await loadAdministration(data.session);
         const allowed = Boolean(
           administration && hasOrganizationPermission(administration.current.role as OrganizationRole, "membership.manage"),
         );
-        if (activeRequest) setCanAdminister(allowed);
+        if (activeRequest) {
+          setCanAdminister(allowed);
+          setIsOwner(administration?.current.role === "owner");
+        }
       } catch {
-        if (activeRequest) setCanAdminister(false);
+        if (activeRequest) { setCanAdminister(false); setIsOwner(false); }
       }
     };
 
@@ -61,6 +65,9 @@ export function WorkspaceSwitcher({ value, onChange }: { value: WorkspaceId; onC
           <span>{workspace.id === value ? <Check size={15}/> : !workspace.enabled ? <LockKeyhole size={14}/> : null}</span><div><b>{locale === "ar" ? workspace.label : en.label}</b><small>{locale === "ar" ? workspace.description : en.description}</small></div>
         </button>;
       })}
+      {isOwner ? <button onClick={() => window.location.assign("/settings/organization")}>
+        <span><Settings2 size={15}/></span><div><b>{text("بيانات المؤسسة", "Organization Settings")}</b><small>{text("البيانات القانونية والعنوان وبيانات الاتصال", "Legal, address and contact profile")}</small></div>
+      </button> : null}
       {canAdminister ? <button onClick={() => window.location.assign("/administration")}>
         <span><ShieldCheck size={15}/></span><div><b>{text("إدارة المؤسسة", "Organization Administration")}</b><small>{text("الأعضاء والصلاحيات والدعوات", "Members, permissions and invitations")}</small></div>
       </button> : null}

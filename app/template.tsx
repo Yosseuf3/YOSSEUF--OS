@@ -6,6 +6,7 @@ import { supabase } from "@/lib/supabase";
 
 const PUBLIC_AUTH_PATHS = new Set([
   "/login",
+  "/signup",
   "/forgot-password",
   "/reset-password",
   "/set-password",

@@ -73,6 +73,10 @@ export default function PasswordLoginPage() {
           <button type="submit" disabled={busy || !email.trim() || !password}>{busy ? text("جارٍ تسجيل الدخول…", "Signing in…") : text("تسجيل الدخول", "Sign in")}</button>
         </form>
         {message && <div className="basoul-password-error" role="alert">{message}</div>}
+        <div className="basoul-auth-switch">
+          <span>{text("مؤسسة جديدة على BASOUL؟", "New organization on BASOUL?")}</span>
+          <a className="basoul-signup-cta" href="/signup">{text("إنشاء حساب جديد", "Create new account")}</a>
+        </div>
         <small>{APP_INFO.fullLabel}</small>
       </section>
     </main>
